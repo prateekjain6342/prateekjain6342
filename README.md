@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Product Search and a Personal Financial Health Check Algorithm at work and as a personal project respectively<br>🤝 I’m looking for a fulfilling role into Backend/ Full Stack Development at a startup<br>🌱 I’m currently learning Java and NextJS<br>⚡ Fun fact - I'm a commerce graduate with a passion for building applications
+🔭 I’m currently working on a Sales Forecasting Application at work and a AI Driven Data Intelligence and Engineering platform<br>🤝 I’m looking for a fulfilling role into Data Engineering/ Backend Development<br>🌱 I’m currently learning about AI Agents<br>⚡ Fun fact - I'm a commerce graduate with a passion for building applications
 
 
 ## 🌐 Socials:
