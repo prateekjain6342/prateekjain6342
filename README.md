@@ -19,5 +19,5 @@
 ## Projects
 
 - 💵 **[Splitzer](https://splitzer.org)** - Easy Bill Splits
-- 📝 **[Stokbot](https://github.com/prateekjain6342/stokbot)** - Your in-house research assitant, living inside your chats on Slack
+- 📝 **[Stokbot](https://github.com/prateekjain6342/stokbot)** - Your in-house research assistant, living inside your chats on Slack
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
